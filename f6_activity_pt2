@@ -1,3 +1,5 @@
 In collaborative projects, version control helps teams work together efficiently by managing changes made by different contributors. It records every modification,
 allowing users to review past updates and recover earlier versions if necessary.Additionally, it supports better collaboration by streamlining reviews, handling
 merge conflicts, and keeping the project well organized.
+Unlike manual file management, Git keeps a complete history of file changes, allowing users to easily recover earlier versions and work
+together more efficiently
